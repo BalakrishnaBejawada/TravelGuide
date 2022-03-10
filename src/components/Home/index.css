@@ -1,0 +1,31 @@
+.bg-container {
+  background-color: #eef4f7;
+  background: cover;
+}
+.guide {
+  display: flex;
+  justify-content: center;
+}
+.heading {
+  color: #334155;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 140px;
+}
+.view {
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.wrap {
+  flex-wrap: wrap;
+  display: flex;
+}

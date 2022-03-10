@@ -1,0 +1,19 @@
+.list-items {
+  width: 50%;
+  list-style-type: none;
+  margin-left: 80%;
+}
+.logo {
+  width: 540px;
+}
+.heading {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.title {
+  color: #64748b;
+  width: 460px;
+  font-family: 'Roboto';
+}
